@@ -20,7 +20,7 @@ Targil 3
 """
 import math, random
 random.seed(1)
-print(math.sqrt(81),"\n",math.pi,"\n",random.randint(1, 6) )
+print(math.sqrt(81),"\n",round(math.pi,2),"\n",random.randint(1, 6) )
 
 
 """
